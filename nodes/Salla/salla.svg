@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="60" height="60" rx="8" fill="#0D9488"/>
+  <path d="M15 20h30v5H15v-5zm0 10h25v5H15v-5zm0 10h20v5H15v-5z" fill="white"/>
+  <circle cx="45" cy="15" r="8" fill="#F59E0B"/>
+  <text x="45" y="20" text-anchor="middle" fill="white" font-size="8" font-weight="bold">S</text>
+</svg> 
